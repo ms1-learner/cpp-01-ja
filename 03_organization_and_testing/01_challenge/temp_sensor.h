@@ -2,8 +2,8 @@
 
 namespace Sensor {
     float readTemperature();
-}
+};
 
 float readTemperature() {
-    return 25.5;
+//    return 25.5;
 }
